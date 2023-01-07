@@ -1,7 +1,7 @@
 ### Hi there! I'm Niels. 👋 
 #### Klimate 🌱  |  Solidity dev 🧑‍💻  |  Web3 enthusiast 🚀  |  Project manager
 
-- 🔭 I’m interested in decentralised applications (dApps), web3 and regenerative finance (ReFi)
+- 🔭 I’m interested in decentralised applications, web3 and regenerative finance (ReFi)
 
 - 🌱 I am currently in the process of going into web3 full-time
 
@@ -9,7 +9,11 @@
 
 - 💬 Let's connect!
 
-
+<img width="35px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">&nbsp;&nbsp;
+<img width="35px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
+<img width="35px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;&nbsp;
+<img width="35px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">&nbsp;&nbsp;
+                       
   
 <!--
 **Dakavon/dakavon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
