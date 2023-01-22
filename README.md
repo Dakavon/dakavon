@@ -15,6 +15,8 @@
 <img width="25px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;
 <img width="25px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">&nbsp;&nbsp;
 <img width="25px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg">&nbsp;&nbsp;
+<img width="25px" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg">&nbsp;&nbsp;
+
                        
   
 <!--
