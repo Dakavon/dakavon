@@ -1,11 +1,13 @@
 ### Hi there! I'm Niels. 👋 
 #### Klimate 🌱  |  Solidity dev 🧑‍💻  |  Web3 enthusiast 🚀  |  Project manager
 
-- 🔭 I’m interested in decentralised applications, web3 and regenerative finance (ReFi)
+- ⚡ Electrical engineering background
 
-- 🌱 I am currently in the process of going into web3 full-time
+- 🔭 Interested in decentralised applications, web3 and regenerative finance (ReFi)
 
-- :books: I enjoy learning new things
+- 🚀 Finally working in web3 full-time 
+
+- :books: Always enjoy learning new things
 
 - 💬 Let's connect!
 
