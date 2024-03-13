@@ -5,7 +5,7 @@
 
 - 🔭 Interested in decentralised applications, web3 and regenerative finance (ReFi)
 
-- 🚀 Finally working in web3 full-time 
+- 🚀 Developing decentralized finance (DeFi) applications
 
 - :books: Always enjoy learning new things
 
